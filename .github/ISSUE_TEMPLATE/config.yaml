@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Some contact link"
+    url: ya.ru
+  - name: "One more link"
+    url: ya.ru
+  
